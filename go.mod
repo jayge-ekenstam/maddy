@@ -33,13 +33,10 @@ require (
 	github.com/martinlindhe/base36 v1.1.0 // indirect
 	github.com/mattn/go-sqlite3 v2.0.3+incompatible
 	github.com/miekg/dns v1.1.31
-	github.com/prometheus/client_golang v1.7.1
-	github.com/prometheus/common v0.13.0 // indirect
+	github.com/prometheus/client_golang v1.11.1
 	github.com/urfave/cli v1.22.4
 	golang.org/x/crypto v0.0.0-20201117144127-c1f2f97bffc9
 	golang.org/x/net v0.0.0-20200822124328-c89045814202
-	golang.org/x/sync v0.0.0-20200625203802-6e8e738ad208
-	golang.org/x/sys v0.0.0-20200821140526-fda516888d29 // indirect
+	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
 	golang.org/x/text v0.3.5-0.20201125200606-c27b9fd57aec
-	google.golang.org/protobuf v1.25.0 // indirect
 )
